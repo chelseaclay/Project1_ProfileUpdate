@@ -80,7 +80,7 @@ header .profile-image {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 3px solid white;
+  border: 1px solid #253f3f; padding: 4px; background: white;
   transition: all .5s;
 }
 header .profile-image:hover {
