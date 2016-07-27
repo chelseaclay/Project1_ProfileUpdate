@@ -250,11 +250,11 @@ Page:CONTACT
 }
 
 .point-of-contact li.phone a {
-  background-image: url('../images/phone.png');
+  background-image: url('images/phone.png');
 }
 
 .point-of-contact li.mail a {
-  background-image: url('../images/mail.png');
+  background-image: url('images/mail.png');
 }
 
 
